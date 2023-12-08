@@ -1,0 +1,22 @@
+#ejemplos de variables
+int $ numero = 10 ;    
+string $ texto = holamundo ;  
+bool $ verdadero = true ; 
+
+#ejemplo de funcion
+func suma ( int $ a , int $ b ) : int { retornar $ a + $ b ; } #aun no bien resuelto 
+
+
+#ejemplo de ciclos
+repeat ( int $ i = 0 ; $ i < 10 ; $ i ++ ) { echo ( $ i ) ; }
+
+
+#ejemplo de condicional
+if ( $ numero > 5 ) { echo ( numero ) ; } else { echo ( numero ) ; }
+
+
+#ejemplo de funcion main 
+func main ( ) { echo ( Inicioprograma ) ; }
+
+
+
